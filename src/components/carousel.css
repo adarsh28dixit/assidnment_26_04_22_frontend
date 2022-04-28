@@ -1,0 +1,26 @@
+.carousel{
+    background-color: #00053C;
+    display: flex;
+}
+
+.carousel-item{
+    width: 592px;
+height: 303px;
+left: 120px;
+top: 50px;
+
+
+border: 1px solid rgba(0, 0, 0, 0.3);
+box-sizing: border-box;
+
+}
+
+h5{
+    color: #FFFFFF;
+    margin-top: 10%;
+    
+
+}
+p{
+    color: #FFFFFF;
+}

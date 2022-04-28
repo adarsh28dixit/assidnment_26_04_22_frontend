@@ -1,0 +1,46 @@
+ul{
+    float: right;
+}
+li{
+    display: inline-flex;
+    margin-right: 3rem;
+    margin-top: 1rem;
+}
+
+.navbarup{
+    width: 1440px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border: 0.5px solid rgba(0, 0, 0, 0.3);
+box-sizing: border-box;
+}
+
+li input{
+    width: 532px;
+height: 40px;
+left: 336px;
+top: 17px;
+
+background: #FFFFFF;
+box-shadow: inset 0px 2px 5px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px
+}
+
+.login{
+    width: 102px;
+height: 41px;
+margin-bottom: 20px;
+    background: #DBDFE8;
+box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+font-size: 18px;
+margin-left: 0px;
+text-align: center;
+}
+
+.cart{
+    font-size: 20px;
+}

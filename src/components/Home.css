@@ -1,0 +1,46 @@
+.main {
+    display: flex;
+}
+.left-navbar {
+width: 22%;
+height: 500px;
+margin-left: 5%;
+margin-top: 6.4%;
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.2);
+box-sizing: border-box;
+}
+
+.right-home {
+    width: 70%;
+    margin-left: 2%;
+    margin-top: 5%;
+    
+}
+
+
+.card {
+    display: inline-flex;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+.card-body {
+    height: 70px;
+    margin-top: -10px;
+    font-family: 'Futura Md BT';
+font-style: normal;
+}
+
+h5{
+    
+
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+margin-top: 2rem;
+}
+
+b{
+    margin-top: 2rem;
+   margin-left: 35%;
+}
